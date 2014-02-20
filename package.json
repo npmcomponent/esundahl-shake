@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-shake",
+  "description": "shake animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "shake"
+  ],
+  "styles": [
+    "shake.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
